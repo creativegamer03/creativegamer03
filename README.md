@@ -1,5 +1,5 @@
 ### Hi, I'm CreativeGamer03! 👋
-[Animated PFP when](./animated_pfp.gif)
+![Animated pfp when](./animated_pfp.gif)
 
 ### Main info:
 ℹ️ I do coding and editing and stuff (mostly for fun and for shitposts, but I sometimes do it seriously).\
